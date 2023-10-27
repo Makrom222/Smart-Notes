@@ -8,7 +8,7 @@ import json
 app = QApplication([])
 window = QWidget()
 window.resize(800,600)
-window.setWindowTitle('Умные заметки')
+window.setWindowTitle('Smart Notes')
 
 
 field_text = QTextEdit()
